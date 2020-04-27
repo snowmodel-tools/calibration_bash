@@ -1,4 +1,4 @@
-### 2019-11 Start Multiple Simulations Scripts
+### Bash scripts for calibration.
 ---
 ---
 #### Written by Ryan Crumley, 2019; ryanlcrumley@gmail.com
